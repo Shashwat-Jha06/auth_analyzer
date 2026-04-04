@@ -42,7 +42,6 @@
 |---|---|
 | **Components** | All detected auth components with HTML snippets. Click Expand/Collapse on any card to see full HTML. AI Enhanced cards show category, provider, summary, and 3 HTML evidence points. |
 | **Overview** | Component count, auth methods summary, security score |
-| **Tech Stack** | Detected framework and auth library with evidence |
 | **Security** | Score /10, HTTPS status, 2FA detection, security notes |
 
 **Rejected Components section** (AI Enhanced mode only)
