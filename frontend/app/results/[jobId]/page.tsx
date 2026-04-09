@@ -183,8 +183,8 @@ export default function ResultsPage() {
         </div>
       </header>
 
-      <main className="container mx-auto px-6 py-8 max-w-5xl">
-        <div className="grid grid-cols-1 lg:grid-cols-[300px_1fr] gap-6">
+      <main className="container mx-auto px-6 py-8 max-w-6xl">
+        <div className="grid grid-cols-1 lg:grid-cols-[5fr_6fr] gap-6">
 
           {/* Left — step-by-step progress */}
           <div className="lg:sticky lg:top-24 self-start">
